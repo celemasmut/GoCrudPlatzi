@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PlatziGoRest&amp;Websockets.iml" filepath="$PROJECT_DIR$/.idea/PlatziGoRest&amp;Websockets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PlatziGoRestWebsockets.iml" filepath="$PROJECT_DIR$/.idea/PlatziGoRestWebsockets.iml" />
     </modules>
   </component>
 </project>
